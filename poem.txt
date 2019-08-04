@@ -6,6 +6,8 @@ Blue
 Purple
 Indigo
 
+NEW COLOR
+
 
 레인보우가 완성되었습니다. 한글추가
 
@@ -14,3 +16,5 @@ Unicorn
 Returned back to master and start editing...
 
 다시 한번 추가합니다.
+
+NEW COLOR
